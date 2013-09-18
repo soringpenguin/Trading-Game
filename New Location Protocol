@@ -1,0 +1,6 @@
+1. Copy and paste other location lines into new
+2. Change to new name in new location class
+3. Add new Location variable in Game()
+4. Initialize in constructor of Game()
+5. Add to all_location list
+6. Add to setup_travel_lists() in Game()
